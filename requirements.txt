@@ -1,0 +1,3 @@
+# No external dependencies
+
+# This file is intentionally left blank to indicate that the project does not require any external packages.
